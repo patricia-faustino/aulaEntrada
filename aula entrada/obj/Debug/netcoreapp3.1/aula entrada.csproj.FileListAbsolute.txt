@@ -1,0 +1,12 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\bin\Debug\netcoreapp3.1\aula entrada.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\bin\Debug\netcoreapp3.1\aula entrada.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\bin\Debug\netcoreapp3.1\aula entrada.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\bin\Debug\netcoreapp3.1\aula entrada.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\bin\Debug\netcoreapp3.1\aula entrada.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\bin\Debug\netcoreapp3.1\aula entrada.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\obj\Debug\netcoreapp3.1\aula entrada.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\obj\Debug\netcoreapp3.1\aula entrada.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\obj\Debug\netcoreapp3.1\aula entrada.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\obj\Debug\netcoreapp3.1\aula entrada.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\obj\Debug\netcoreapp3.1\aula entrada.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\aula entrada\aula entrada\obj\Debug\netcoreapp3.1\aula entrada.genruntimeconfig.cache
